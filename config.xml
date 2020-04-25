@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.covid19.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. coronavirus-control.info</name>
+    <name>ТЕСТ. covid19</name>
 
     <description>
         Приложение для просмотра информации о распространении коронавируса по всему миру
